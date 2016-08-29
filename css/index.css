@@ -1,0 +1,97 @@
+
+.navlink{line-height:55px;
+         float:left;color:white;
+		 margin-left:28px;
+		 font-size:18px;}
+.navlink:hover{background:#a10004;}
+
+		 
+.main{width:1240px;
+      height:472px;
+      margin:0 auto;
+	  position:relative;}	  
+.main-sidebar{float:left;
+              width:228px;}
+.main-sidebar ul li{height:51px;
+                 padding:14px 0 0 30px;
+                 border:1px solid #ccc;}
+.main-sidebar ul li:hover{background:#999;}
+.main-sidebar ul li p{color:#b60005;}
+.main-sidebar ul li ul{display:none;}
+.main-sidebar ul li ul li{width:178px;height:30px;
+                    background:white;}
+.main-sidebar ul li ul li a{color:black;font-size:14px;}
+.main-sidebar ul li:hover ul{display:block;}
+.sidebar-1{position:absolute;
+           left:228px;top:0;}
+.sidebar-2{position:absolute;
+           left:228px;top:67px;}
+.sidebar-3{position:absolute;
+           left:228px;top:134px;}
+.sidebar-4{position:absolute;
+           left:228px;top:201px;}
+.sidebar-5{position:absolute;
+           left:228px;top:268px;}
+.sidebar-6{position:absolute;
+           left:228px;top:335px;}
+.sidebar-7{position:absolute;
+           left:228px;top:402px;}
+.main-right{float:left;}
+.img-main{display:block;}
+
+.environment{width:1240px;
+             margin:0 auto;
+			 overflow:auto;}
+.environment ul{float:left;}
+.environment h3{font-size:20px;
+               color:#b60005;
+			   margin-top:50px;}
+.environment img{margin:13px 10px 0 0;}
+.environment img:hover{box-shadow:0 0 8px #999;}
+.environment-right{width:490px;
+                   float:left;
+				   margin-left:20px;}
+.environment-right p{font-size:13px;
+					line-height:36px;}
+
+.works{width:1240px;
+       height:440px;
+       margin:0 auto;}
+.works h3{font-size:20px;margin:30px 0px 20px 0;
+         color:#b60005;}
+.works span{margin:30px;}
+.works span a{font-size:18px;margin:0 10px;
+            color:#666;}
+.works img{margin-right:2px;}
+.student{width:120px;height:80px;
+         margin:-370px 0 0 495px ;
+		 opacity:0.5;
+		 background:black;
+		 color:#fff;
+		 text-align:center;
+		 line-height:80px;
+		 font-size:25px;}
+.teacher{width:120px;height:80px;
+         margin:-80px 0 0 1118px;
+		 opacity:0.5;
+		 background:black;color:#fff;
+		 text-align:center;
+		 line-height:80px;
+		 font-size:25px;}
+		 
+.team{width:1240px;
+      margin:0 auto;}
+.team h3{font-size:20px;color:#b60005;
+        margin:40px 0 20px 0;}
+.team ul{display:inline-block;}
+.team ul li{display:inline-block;
+         width:150px;
+		 height:400px;
+		 vertical-align:top;
+		 background:#8a8a8a;
+		 color:white;}
+.team ul li strong{font-size:18px;display:block;}
+.team ul li b{font-size:12px;}
+.team ul li p{font-size:12px;
+          line-height:16px;}
+		  

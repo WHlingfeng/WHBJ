@@ -1,0 +1,39 @@
+.abouts{width:1240px;
+        margin:0 auto;
+		text-align:center;
+		margin-top:30px;}
+.abouts h1{color:#ff0000;
+          line-height:80px;}
+.abouts p{margin:10px;}
+.abouts h4{margin:30px 0 60px 0;}
+.bg{width:1240px;
+    margin:0 auto;}
+.main{width:1240px;margin:0 auto;
+      background:#cdcdcd;
+	  overflow:auto;}
+.main img{margin:80px 100px;
+         display:block;}
+.main-left{width:500px;height:328px;
+		   margin:0 40px 50px 100px;
+		   float:left;
+		   line-height:35px;}
+.main-right{width:490px;height:320px;
+            float:left;}
+.topic{width:1024px;height:475px;
+       padding:102px 108px;
+       margin:0 auto;
+      background:#7d797a;
+	  overflow:auto;}
+.topic h3{font-size:26px;
+         line-height:80px;
+		 color:white;}
+.topic p{color:white;
+        line-height:40px;}
+.topic p span{color:yellow;}
+.topic-logo{float:right;
+            margin-top:-220px;}
+.champion{width:1240px;
+          margin:0 auto;
+		  background:#999;}
+.champion-title{display:block;
+                padding:50px 0 30px 108px;}
