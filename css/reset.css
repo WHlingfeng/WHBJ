@@ -4,7 +4,14 @@ select,input,img,select{vertical-align:middle;}
 a{text-decoration:none;} 
 a:visited{color:#800080;} 
 a:hover,a:active,a:focus{text-decoration:underline;}
-
+.clearFloat{clear:both;}
+.clearFloat:after{
+	display:block;
+	visibility:hidden;
+	overflow:hidden;
+	clear:both;
+	content:"";
+    line-height: 0;}
 .header {width:1240px;
         margin:30px auto 20px;
         background:url(../images/logo.png) no-repeat;
